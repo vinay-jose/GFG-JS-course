@@ -4,6 +4,6 @@
 */
 
 console.log('Hello Geeks!!');
-console.log("My name is Prakash Sakari!")
+console.log("My name is Vinay Jose!")
 
 console.log(7 + 3);
