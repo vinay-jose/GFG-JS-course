@@ -6,12 +6,12 @@
 */
 
 
-const a = "prakash";
-const b = 0;
+const a = "2";
+const b = 1;
 
 
 console.log(Boolean(b));
-
+console.log(+a + b)
 
 // const c = String(a);
 // const d = String(b);

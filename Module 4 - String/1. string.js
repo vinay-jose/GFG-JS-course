@@ -10,17 +10,6 @@ for (let i=0; i<displayMessage.length; i++){
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
 // let count = 0;
 // for (let char of displayMessage){
 //     if (char === "e"){

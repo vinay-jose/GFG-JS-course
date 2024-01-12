@@ -2,6 +2,9 @@
  * Ternary Operators🌟🔥🌟 --> condition ? yes : no
  */
 
+// condition ? value if true : value if false
+// condition1 ? value1 if true : condition2 ? value2 if true : condition3 ? value3 if true : value if 1,2&3 false
+
 const totalMarksScored = 100;
 
 if (totalMarksScored < 40){

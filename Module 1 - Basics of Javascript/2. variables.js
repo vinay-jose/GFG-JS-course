@@ -17,7 +17,7 @@ let text; //Creating Variable or Declaring a variable
 
 text = "JavaScript is the best!!!!"; // Assigning a value to a variable
 
-// console.log(text);
+console.log(text);
 
 // let myname = "Prakash Sakari!!"
 

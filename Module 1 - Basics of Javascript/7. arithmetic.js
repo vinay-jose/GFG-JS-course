@@ -1,6 +1,6 @@
 
-const x = "mango";
-const y = "apple";
+const x = 9;
+const y = 6;
 
 console.log(x + y);
 
